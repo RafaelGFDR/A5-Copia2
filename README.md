@@ -13,4 +13,4 @@
 12. esta regla es el footer que es el pie de pagina y le puesto un text-align center para que se me centre el footer con un padding general de un 20% y el color del texo escrito por mi en el footer en amarillo con la propiedad color:
 13. emos echo un mediaqueris y dentro de este empiezo por la primera regla que sera un header h1 con un padding de 1% 
 14. dentro del mediaqueris segimos con la regla de main con un padding-left y right de un 1% en los dos lados 
-regla 15 . y por ultimo la regla de main p que estaremos seleccionando que el parrafo de main tenga un tamaño de letra de 15px con un font-size
+15. y por ultimo la regla de main p que estaremos seleccionando que el parrafo de main tenga un tamaño de letra de 15px con un font-size
