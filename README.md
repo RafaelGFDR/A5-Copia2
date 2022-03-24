@@ -1,6 +1,5 @@
 # A5-reglascss
-1. 
-Para empezar pondremos estilos al body con un margin de propiedad 0% y cambiaremos el tipo de letra en https://fonts.google.com/
+1. Para empezar pondremos estilos al body con un margin de propiedad 0% y cambiaremos el tipo de letra en https://fonts.google.com/
 2. en la regla header pondremos la etiqueta de height : 100 % para que nos coja toda la altura y las siguientes propiedades , la imagen de fondo con un background-image , background-posicion que le pondremos cover para que se ajuste a toda la pagina , despues le añadiremos background-size: cover; display: flex;align-items: center;justify-content: center; para centrar el contenido .
 3. aremos una regla con header h1 que significa que todo lo que pongamos dentro de aqui afectara al titulo h1 del encabezado , lo primero que he hecho es cambiarle la fuente de la letra a 'Bebas Neue', cursive; cambiar el color de la letra a rosa , darle un 0% de margin , hacer un padding-left con un 60% y el padding-right con un 27 % y el tamaño de la letra a un 45 con la etiqueta font-size
 4. en la regla main le añadiremos un padding- left y right a un 20% 
